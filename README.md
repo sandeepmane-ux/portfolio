@@ -1,2 +1,3 @@
-# portfolio
-Sandeep's Portfolio
+# PORTFOLIO
+
+> An awesome project.
